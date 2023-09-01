@@ -92,7 +92,7 @@
         <hazelcast.version>3.12.1</hazelcast.version>
         <hsqldb.version>2.5.0</hsqldb.version>
         <jdk.version>1.8</jdk.version>
-        <jetty.version>9.4.20.v20190813</jetty.version>
+        <jetty.version>9.4.52.v20230823</jetty.version>
         <!-- Don't change this version without also changing the shiro-quartz and shiro-features
              modules' OSGi metadata: -->
         <quartz.version>1.6.1</quartz.version>
@@ -103,7 +103,7 @@
         <spring-boot.version>2.1.9.RELEASE</spring-boot.version>
         <guice.version>4.2.2</guice.version>
         <jaxrs.api.version>2.0.1</jaxrs.api.version>
-        <htmlunit.version>2.36.0</htmlunit.version>
+        <htmlunit.version>2.45.0</htmlunit.version>
 
         <!-- Test 3rd-party dependencies: -->
         <easymock.version>4.0.2</easymock.version>
